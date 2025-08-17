@@ -1,11 +1,11 @@
 {
     ["KERNEL"] = {
-        init = "",
+        init = "system:core/system/init.lua",
         driver_location = "",
         module_location = "system:core/kernel/modules",
         library_location = "system:lib",
         enable_hashlib = true,
-        boot_script = "",
+        boot_script = "system:core/system/boot/boot_scr.lua",
         startup_messaging = true,
     },
     ["USERS"] = {
