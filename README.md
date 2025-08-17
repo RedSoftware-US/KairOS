@@ -11,7 +11,8 @@
 
 * GitHub: `https://github.com/RedSoftware-US/KairOS/`
 * Discord: `red.software`
-* Email: `redsoftware-us@proton.me`
+* Email PREFERRED: `redsoftware-us@proton.me`
+* Email: `redsoftware.us@gmail.com`
 
 ---
 
