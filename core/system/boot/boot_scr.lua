@@ -1,9 +1,9 @@
 local boot = {}
 
 function boot.start_boot()
-    local base64 = kernel.lib("libbase64.lua")
-    local img    = kernel.lib("libimg.lua")
-    local qoi = kernel.lib("libqoi.lua")
+    local base64 = kernel.lib("core/libbase64.lua")
+    local img    = kernel.lib("core/libimg.lua")
+    local qoi = kernel.lib("core/libqoi.lua")
 
     local qoi_image, err = kernel.fs.open("system:core/system/boot/boot.bqoi", "r")
     if err then error(err) end
