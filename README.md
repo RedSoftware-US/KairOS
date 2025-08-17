@@ -1,5 +1,5 @@
 # KairOS 0.1.0
-<sup>Powered by NexCore v0.3.2</sup>
+<sup>Powered by NexCore v0.3.3</sup>
 
 ## Contributing & Community
 
